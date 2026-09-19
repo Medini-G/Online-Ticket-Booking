@@ -1,3 +1,5 @@
+
+
 # Marquee — Online Event Management System
 
 A full front-end event booking platform built with plain HTML, CSS, and JavaScript — no frameworks, no backend, no build step. All data (users, events, bookings, feedback) lives in `localStorage`, acting as a lightweight client-side database.
